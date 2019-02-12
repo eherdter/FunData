@@ -4,6 +4,6 @@ A repository to store R scripts and Python Notebooks for miscellaneous data proj
 Not work related. 
 
 Contents:
-1. Weather a weather analysis.  
+1. A weather analysis.  
 2. An exploration into GapMinder data.   
 
