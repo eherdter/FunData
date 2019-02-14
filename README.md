@@ -13,4 +13,4 @@ data for this analysis is in _RawData_.
 
 **GDP_ChildMortality_FemaleEducation_GapMinder.ipynb** (in the _InvestigateGapMinder_ folder, with raw data) is a mini data exploration project using Numpy, Pandas, and Matplotlib.   
 
-**AnalyzeABtestResults.ipynb** (in the _AnalyzeABTestResults_folder, with raw data) was an assignment where I was tasked to analyze some A/B testing data using bootstrap simulation hypothesis testing and regression methods. I used numpy, pandas, statsmodels.api, and patsy.   
+**AnalyzeABtestResults.ipynb** (in the _AnalyzeABTestResults_ folder, with raw data) was an assignment where I was tasked to analyze some A/B testing data using bootstrap simulation hypothesis testing and regression methods. I used numpy, pandas, statsmodels.api, and patsy.   
