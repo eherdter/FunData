@@ -1,7 +1,6 @@
 # FunData
 
-A repository to store R scripts and Python Notebooks for miscellaneous data projects. 
-Not work related. 
+A repository to store R scripts and Python Notebooks for data projects associated with the Udacity Data Analyst program. 
 
 ## Contents:
 1. A weather analysis.  
