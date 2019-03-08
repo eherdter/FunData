@@ -4,9 +4,10 @@ A repository to store R scripts and Python Notebooks for data projects associate
 
 ## Contents:
 1. A weather analysis.  
-2. An exploration into GapMinder data.   
-3. Analyzing A/B test results with bootstrap simulation and regression analysis.
+2. An exploration into GapMinder data using pandas and matplotlib.    
+3. An analysis of A/B test results using bootstrap simulation and regression analysis.
 4. An analysis of the WeRateDogs Twitter feed.
+5. An exercise where matplotlib and seaborn were used to make insights about the Ford GoBike data.
 ---------------
 
 1. **weather_trends.Rmd** is a exploration into annual temperature in Miami, Florida. A moving average is used to compare annual temperature in Miami to the global average. The
