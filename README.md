@@ -16,4 +16,6 @@ data for this analysis is in _RawData_.
 
 3. **AnalyzeABtestResults.ipynb** (in the _AnalyzeABTestResults_ folder, with raw data) was an assignment where I was tasked to analyze some A/B testing data using bootstrap simulation hypothesis testing and regression methods. I used numpy, pandas, statsmodels.api, and patsy.
 
-4. **wrangle_act.ipynb** (in the _WeRateDogs_Twitter_ folder, with raw data) was an assignment where I was tasked to address quality and tidyness issues associated with the twitter archive from WeRateDogs twitter feed. I also performed an exploratory analysis of the tweets and accompanying dataset that included a prediction for the dog breed referenced in each tweet. 
+4. **wrangle_act.ipynb** (in the _WeRateDogs_Twitter_ folder, with raw data) was an assignment where I was tasked to address quality and tidyness issues associated with the twitter archive from WeRateDogs twitter feed. I also performed an exploratory analysis of the tweets and accompanying dataset that included a prediction for the dog breed referenced in each tweet.
+
+5. **FordGoBikeData_AnalysisVisualization.ipynb** and **FordGoBikeData_VisualizationPresentaton** is an exploration of the Ford GoBike data collected in San Francisco in 2018. This .ipynb notebook will include any necessary wrangling and visualizations to gain insight about trends in rider usage. The slide deck will communicate the main findings of the exploration/analysis using data visualization with Matplotlib and Seaborn.
