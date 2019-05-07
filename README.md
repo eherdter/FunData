@@ -5,7 +5,9 @@ A repository to store R scripts and Python Notebooks for data science projects I
 ## Contents:
 1. A command line application that classifies images.
 > **train.py**  within _Image Classifier_ trains a PyTorch VGG19 (default) neural net on a dataset of flower images. **predict.py** predicts the class of a new image using the saved trained model. The application can run on either CPU or GPU.
-> Basic usage: `python train.py flowers`- Prints out training loss, validation loss, and validation accuracy as the network trains
+
+>Basic usage: `python train.py flowers`- Prints out training loss, validation loss, and validation accuracy as the network trains.
+
 >Options:
  >> Set directory to save checkpoints: `python train.py data_dir --save_dir save_directory`
  >>Choose architecture: `python train.py data_dir --arch "vgg13"``
